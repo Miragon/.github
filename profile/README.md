@@ -11,9 +11,9 @@ Want to roll one out across your whole company? We'll help with the rollout — 
 
 ## Stuck somewhere?
 
-Got an annoying manual process, architecture, or organizational problem? Tell us about it — we'll help you figure out what's going on and fix it with your team. Usually you'll know where you stand within a day.
+Got an annoying manual process, architecture, or organizational problem? Tell us about it — we'll help you figure out what's going on and fix it with your team.
 
-- 📩 **[Get in touch](https://www.miragon.io/kontakt)** — and we'll help you figure out the next step
+- 📩 **[Get in touch](https://www.miragon.io/kontakt)** — usually you'll know where you stand within a day
 
 ## Get involved
 
