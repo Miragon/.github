@@ -13,7 +13,7 @@ Want to roll one out across your whole company? We'll help with the rollout — 
 
 Got an annoying manual process, architecture, or organizational problem? Tell us about it — we'll help you figure out what's going on and fix it with your team.
 
-- 📩 **[Get in touch](https://www.miragon.io/kontakt)** — spend a day with us to analyze the problem together
+- 📩 **[Get in touch](https://www.miragon.io/kontakt)** — and spend a day with us to analyze the problem together
 
 ## Get involved
 
