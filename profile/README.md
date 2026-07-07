@@ -1,5 +1,3 @@
-**We enable organizations to become truly digital.**
-
 ## What we build
 
 Consulting is what we do all day — architecture, training, organizational design such as Team Topologies, and, most often, process automation. When something we build turns out useful beyond one project, we open source it, so other teams hit the same wall a little less hard. Check them out below. 
@@ -13,9 +11,9 @@ Want to roll one out across your whole company? We'll help with the rollout — 
 
 ## Stuck somewhere?
 
-Got an annoying manual process, architecture, or organizational problem? Tell us about it — we'll help you figure out what's going on and fix it with your team. Usually you'll know where you stand within a day.
+Got an annoying manual process, architecture, or organizational problem? Tell us about it — we'll help you figure out what's going on and fix it with your team.
 
-[Get in touch](https://www.miragon.io/kontakt)
+- 📩 **[Get in touch](https://www.miragon.io/kontakt)** — and spend a day with us to analyze the problem together
 
 ## Get involved
 
