@@ -1,5 +1,3 @@
-**We enable organizations to become truly digital.**
-
 ## What we build
 
 Consulting is what we do all day — architecture, training, organizational design such as Team Topologies, and, most often, process automation. When something we build turns out useful beyond one project, we open source it, so other teams hit the same wall a little less hard. Check them out below. 
