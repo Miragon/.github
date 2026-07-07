@@ -1,7 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/58698887?v=4" width="80" alt="Miragon logo" />
-
-# Miragon
-
 **We enable organizations to become truly digital.**
 
 ## What we build
