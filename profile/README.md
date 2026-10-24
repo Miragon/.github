@@ -2,7 +2,7 @@
 
 Consulting is what we do all day — architecture, training, organizational design such as Team Topologies, and, most often, process automation. When something we build turns out useful beyond one project, we open source it, so other teams hit the same wall a little less hard. Check them out below. 
 
-- 🧩 **Modeling Tools** — from BPMN to Wardley Maps, e.g. [bpmn-modeler](https://github.com/Miragon/bpmn-modeler), [wardley-maps-modeler](https://github.com/Miragon/wardley-maps-modeler)
+- 🧩 **Modeling Tools** — from BPMN to Wardley Maps, e.g. [bpmn-modeler](https://github.com/Miragon/bpmn-modeler), [modeler-suite](https://github.com/Miragon/modeler-suite)
 - 🤖 **AI & MCP Tooling** — connecting LLMs to real process automation, for example [mcp-toolkit](https://github.com/Miragon/mcp-toolkit), [miragon-ai](https://github.com/Miragon/miragon-ai)
 - ⚙️ **Codegen Tooling** — turning BPMN models into type-safe code, like [bpmn-to-code](https://github.com/Miragon/bpmn-to-code)
 - 🛠️ **Dev & CI Tooling** — the smaller things that make our own pipelines better, such as [pin-npm-dependencies](https://github.com/Miragon/pin-npm-dependencies)
